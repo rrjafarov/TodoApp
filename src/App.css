@@ -1,0 +1,28 @@
+.forms{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.form ul{
+  margin-top: 50px;
+}
+.form ul li{
+ width: 30px;
+ border: 1px solid black;
+}
+
+
+.input{
+  height: 55px;
+}
+.btn-adding{
+  height: 55px;
+}
